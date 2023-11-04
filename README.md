@@ -1,2 +1,3 @@
-# lab-waterball-design-pattern
+# Intro
+
 Lab projects for Waterball design pattern class.
